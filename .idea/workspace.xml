@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics/StringFormatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +40,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Constants">
-    <configuration name="CommandLineArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.CommandLineArgument" />
+  <component name="RunManager" selected="Application.Comments">
+    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.Comments" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Readline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.Readline" />
+    <configuration name="StringFormatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.StringFormatting" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -106,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comments" />
+        <item itemvalue="Application.StringFormatting" />
         <item itemvalue="Application.Constants" />
         <item itemvalue="Application.VarKeyword" />
         <item itemvalue="Application.Variables" />
-        <item itemvalue="Application.CommandLineArgument" />
-        <item itemvalue="Application.Readline" />
       </list>
     </recent_temporary>
   </component>
@@ -144,13 +146,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676359130243</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[feat::] Add 7 constants">
+      <created>1676359524272</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676359524272</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[feat::] Add 1 HelloWorld" />
     <MESSAGE value="[feat::] Add 2 readline" />
     <MESSAGE value="[feat::] Add 6 var" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 6 var" />
+    <MESSAGE value="[feat::] Add 7 constants" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 7 constants" />
   </component>
 </project>
