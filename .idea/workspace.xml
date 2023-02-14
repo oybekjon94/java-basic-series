@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics/StringFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics/CaseSensitiveIdentifiers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaBasics/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaBasics/Comments.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,20 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Comments">
+  <component name="RunManager" selected="Application.CaseSensitiveIdentifiers">
+    <configuration name="CaseSensitiveIdentifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.CaseSensitiveIdentifiers" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaBasics.Comments" />
       <module name="java" />
@@ -93,26 +106,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.Variables" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaBasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CaseSensitiveIdentifiers" />
         <item itemvalue="Application.Comments" />
         <item itemvalue="Application.StringFormatting" />
         <item itemvalue="Application.Constants" />
         <item itemvalue="Application.VarKeyword" />
-        <item itemvalue="Application.Variables" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676359524272</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[feat::] Add 8 comment">
+      <created>1676360407372</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676360407372</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +168,7 @@
     <MESSAGE value="[feat::] Add 2 readline" />
     <MESSAGE value="[feat::] Add 6 var" />
     <MESSAGE value="[feat::] Add 7 constants" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 7 constants" />
+    <MESSAGE value="[feat::] Add 8 comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 8 comment" />
   </component>
 </project>
