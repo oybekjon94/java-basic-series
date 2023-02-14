@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics/Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics/KeyWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +39,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Literals">
+  <component name="RunManager" selected="Application.KeyWords">
     <configuration name="CaseSensitiveIdentifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaBasics.CaseSensitiveIdentifiers" />
       <module name="java" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Constants" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.Constants" />
+    <configuration name="KeyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics.KeyWords" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KeyWords" />
         <item itemvalue="Application.Literals" />
         <item itemvalue="Application.CaseSensitiveIdentifiers" />
         <item itemvalue="Application.Comments" />
         <item itemvalue="Application.StringFormatting" />
-        <item itemvalue="Application.Constants" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676361116272</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[feat::] Add 10 literals">
+      <created>1676361867552</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676361867552</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -176,6 +183,7 @@
     <MESSAGE value="[feat::] Add 7 constants" />
     <MESSAGE value="[feat::] Add 8 comment" />
     <MESSAGE value="[feat::] Add 9 identifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 9 identifier" />
+    <MESSAGE value="[feat::] Add 10 literals" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 10 literals" />
   </component>
 </project>
