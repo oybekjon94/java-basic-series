@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/SignOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/BooleanOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/ConcatenateStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/ShortCirrCuit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +41,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SignOperator">
-    <configuration name="CaseSensitiveIdentifiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.CaseSensitiveIdentifiers" />
+  <component name="RunManager" selected="Application.ShortCirrCuit">
+    <configuration name="BooleanOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.BooleanOperator" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.*" />
+          <option name="PATTERN" value="javaBasics2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.Comments" />
+    <configuration name="ConcatenateStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.ConcatenateStrings" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.*" />
+          <option name="PATTERN" value="javaBasics2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.Literals" />
+    <configuration name="ShortCirrCuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.ShortCirrCuit" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics.*" />
+          <option name="PATTERN" value="javaBasics2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShortCirrCuit" />
+        <item itemvalue="Application.BooleanOperator" />
+        <item itemvalue="Application.ConcatenateStrings" />
         <item itemvalue="Application.SignOperator" />
         <item itemvalue="Application.KeyWords" />
-        <item itemvalue="Application.Literals" />
-        <item itemvalue="Application.CaseSensitiveIdentifiers" />
-        <item itemvalue="Application.Comments" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676362336596</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[feat::] Add javaBasics">
+      <created>1676430412128</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676430412128</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,6 +201,7 @@
     <MESSAGE value="[feat::] Add 9 identifier" />
     <MESSAGE value="[feat::] Add 10 literals" />
     <MESSAGE value="[feat::] Add 11 keywords" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add 11 keywords" />
+    <MESSAGE value="[feat::] Add javaBasics" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add javaBasics" />
   </component>
 </project>
