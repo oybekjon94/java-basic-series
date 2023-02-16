@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/BooleanOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/ConcatenateStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/ShortCirrCuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Apples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/BooleanType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Enum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/FloatingInPrecision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/IntegerNotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Overflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Sprinter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +45,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShortCirrCuit">
-    <configuration name="BooleanOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.BooleanOperator" />
+  <component name="RunManager" selected="Application.FloatingInPrecision">
+    <configuration name="Apples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.Apples" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatenateStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.ConcatenateStrings" />
+    <configuration name="FloatingInPrecision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.FloatingInPrecision" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -68,21 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics.KeyWords" />
-      <module name="java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaBasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShortCirrCuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.ShortCirrCuit" />
+    <configuration name="IntegerNotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.IntegerNotations" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +85,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.SignOperator" />
+    <configuration name="Overflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.Overflow" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBasics2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sprinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics2.Sprinter" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShortCirrCuit" />
-        <item itemvalue="Application.BooleanOperator" />
-        <item itemvalue="Application.ConcatenateStrings" />
-        <item itemvalue="Application.SignOperator" />
-        <item itemvalue="Application.KeyWords" />
+        <item itemvalue="Application.FloatingInPrecision" />
+        <item itemvalue="Application.Sprinter" />
+        <item itemvalue="Application.Overflow" />
+        <item itemvalue="Application.IntegerNotations" />
+        <item itemvalue="Application.Apples" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676430412128</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[feat::] Add javaBasics">
+      <created>1676456650017</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676456650017</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
