@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Apples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/BooleanType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Enum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/FloatingInPrecision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/IntegerNotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Overflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics2/Sprinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/CharDataType_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/DataType_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/FloatingPointDate_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/HelloWorld_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/IntegerDataType_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics3/BoxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics3/IntegerWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics3/Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics3/arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics3/stringsAndChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasicspdp/IntArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic-series.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaBasics2/Enum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +53,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FloatingInPrecision">
-    <configuration name="Apples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.Apples" />
-      <module name="java" />
+  <component name="RunManager" selected="Application.FloatingPointDate_05">
+    <configuration name="CharDataType_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.CharDataType_04" />
+      <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics2.*" />
+          <option name="PATTERN" value="javaBasics01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FloatingInPrecision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.FloatingInPrecision" />
-      <module name="java" />
+    <configuration name="FloatingPointDate_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.FloatingPointDate_05" />
+      <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics2.*" />
+          <option name="PATTERN" value="javaBasics01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerNotations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.IntegerNotations" />
-      <module name="java" />
+    <configuration name="IntegerDataType_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.IntegerDataType_03" />
+      <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics2.*" />
+          <option name="PATTERN" value="javaBasics01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overflow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.Overflow" />
-      <module name="java" />
+    <configuration name="javaBasics01.DataType_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.DataType_02" />
+      <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics2.*" />
+          <option name="PATTERN" value="javaBasics01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sprinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics2.Sprinter" />
-      <module name="java" />
+    <configuration name="javaBasics01.HelloWorld_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.HelloWorld_01" />
+      <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics2.*" />
+          <option name="PATTERN" value="javaBasics01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FloatingInPrecision" />
-        <item itemvalue="Application.Sprinter" />
-        <item itemvalue="Application.Overflow" />
-        <item itemvalue="Application.IntegerNotations" />
-        <item itemvalue="Application.Apples" />
+        <item itemvalue="Application.FloatingPointDate_05" />
+        <item itemvalue="Application.CharDataType_04" />
+        <item itemvalue="Application.IntegerDataType_03" />
+        <item itemvalue="Application.javaBasics01.DataType_02" />
+        <item itemvalue="Application.javaBasics01.HelloWorld_01" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676456650017</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="[feat::] Add javaBasics2">
+      <created>1676536768700</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676536768700</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +228,7 @@
     <MESSAGE value="[feat::] Add 10 literals" />
     <MESSAGE value="[feat::] Add 11 keywords" />
     <MESSAGE value="[feat::] Add javaBasics" />
-    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add javaBasics" />
+    <MESSAGE value="[feat::] Add javaBasics2" />
+    <option name="LAST_COMMIT_MESSAGE" value="[feat::] Add javaBasics2" />
   </component>
 </project>
