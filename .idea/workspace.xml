@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics01/IfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics01/OperatorsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics01/StringDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ForExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ForExamplestTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Switch_09.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +41,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IfExample">
-    <configuration name="ConcatenateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.ConcatenateString" />
+  <component name="RunManager" selected="Application.ForExamplestTwo">
+    <configuration name="ForExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.ForExamples" />
       <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
@@ -55,7 +55,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ForExamplestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.ForExamplestTwo" />
+      <module name="java-basic-series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaBasics01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javaBasics01.IfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaBasics01.IfExample" />
       <module name="java-basic-series" />
       <extension name="coverage">
@@ -68,7 +81,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperatorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="javaBasics01.OperatorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaBasics01.OperatorsExample" />
       <module name="java-basic-series" />
       <extension name="coverage">
@@ -81,21 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringDataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.StringDataType" />
-      <module name="java-basic-series" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaBasics01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringFormatting_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.StringFormatting_08" />
+    <configuration name="javaBasics01.Switch_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.Switch_09" />
       <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IfExample" />
-        <item itemvalue="Application.OperatorsExample" />
-        <item itemvalue="Application.StringDataType" />
-        <item itemvalue="Application.ConcatenateString" />
-        <item itemvalue="Application.StringFormatting_08" />
+        <item itemvalue="Application.ForExamplestTwo" />
+        <item itemvalue="Application.ForExamples" />
+        <item itemvalue="Application.javaBasics01.Switch_09" />
+        <item itemvalue="Application.javaBasics01.IfExample" />
+        <item itemvalue="Application.javaBasics01.OperatorsExample" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678862006373</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="[feat::] Add javaBasics01">
+      <created>1678884672392</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678884672392</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
