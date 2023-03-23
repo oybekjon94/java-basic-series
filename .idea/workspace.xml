@@ -2,9 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19784d7c-b56a-4fb6-af05-87394b219193" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ForExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ForExamplestTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Switch_09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/BankAbstrakEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Bike2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Calculate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/CenterBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/ArrayLIstLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/HashMapLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/HashSetLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/LinkedHashMapLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/LinkedHashsetLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/LinkedListLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/TreeMapLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Collections/TreeSetLesson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ContinueAndBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/DoWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ForExampes3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/HunterDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/InstanceOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/KapitalBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/MaxNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/NBU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/OFBBankAbs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Problem9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Problems10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ProductCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Programmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/SampleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/StaticTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/ThisKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/WhileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaBasics01/WhileExample2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +89,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForExamplestTwo">
-    <configuration name="ForExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.ForExamples" />
+  <component name="RunManager" selected="Application.TreeMapLesson">
+    <configuration name="HashMapLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.Collections.HashMapLesson" />
       <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics01.*" />
+          <option name="PATTERN" value="javaBasics01.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForExamplestTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.ForExamplestTwo" />
+    <configuration name="LinkedHashMapLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.Collections.LinkedHashMapLesson" />
       <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics01.*" />
+          <option name="PATTERN" value="javaBasics01.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaBasics01.IfExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.IfExample" />
+    <configuration name="LinkedHashsetLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.Collections.LinkedHashsetLesson" />
       <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics01.*" />
+          <option name="PATTERN" value="javaBasics01.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaBasics01.OperatorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.OperatorsExample" />
+    <configuration name="TreeMapLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.Collections.TreeMapLesson" />
       <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics01.*" />
+          <option name="PATTERN" value="javaBasics01.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="javaBasics01.Switch_09" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaBasics01.Switch_09" />
+    <configuration name="TreeSetLesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaBasics01.Collections.TreeSetLesson" />
       <module name="java-basic-series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaBasics01.*" />
+          <option name="PATTERN" value="javaBasics01.Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ForExamplestTwo" />
-        <item itemvalue="Application.ForExamples" />
-        <item itemvalue="Application.javaBasics01.Switch_09" />
-        <item itemvalue="Application.javaBasics01.IfExample" />
-        <item itemvalue="Application.javaBasics01.OperatorsExample" />
+        <item itemvalue="Application.TreeMapLesson" />
+        <item itemvalue="Application.LinkedHashMapLesson" />
+        <item itemvalue="Application.HashMapLesson" />
+        <item itemvalue="Application.LinkedHashsetLesson" />
+        <item itemvalue="Application.TreeSetLesson" />
       </list>
     </recent_temporary>
   </component>
